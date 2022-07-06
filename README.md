@@ -1,18 +1,19 @@
 # Machine-Learning
 ### Anaconda commands
 Creating conda env 
-    ```
-    conda create -p <env name> python==3.9 -y
-    ```
-    ```
-    conda activate hemanth/
-    ```
-    ```
-    conda info --evns
-    ```
-    ```
-    pip install -r requirements.txt
-    ```
+```
+conda create -p <env name> python==3.9 -y
+```
+```
+conda activate hemanth/
+```
+```
+conda info --evns
+```
+```
+pip install -r requirements.txt
+```
+### GIt commands
 
 To Add files to git
 ```
@@ -38,7 +39,8 @@ git commit -m <"message">
 ```
 to send version changes to git
 ```
-git push origin main
+git push origin <branch main
+>
 ```
 to check remote url
 ```
